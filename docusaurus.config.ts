@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Louka-Loca Documentation',
+  title: 'Louka-Loca',
   tagline: 'Projet d\'annonces immobilières',
   favicon: 'img/favicon.ico',
   url: 'https://technostrea.hd.free.fr:8888',
