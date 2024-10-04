@@ -7,9 +7,9 @@ const config: Config = {
   tagline: 'Projet d\'annonces immobilières',
   favicon: 'img/favicon.ico',
   url: 'https://technostrea.hd.free.fr:8888',
-  baseUrl: '/',
-  organizationName: 'benaja-bendo',
-  projectName: 'louka-loca-docs',
+  baseUrl: '/LL-DOCS/',
+  organizationName: 'Technostrea',
+  projectName: 'LL-DOCS',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
